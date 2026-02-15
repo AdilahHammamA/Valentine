@@ -29,7 +29,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "babel-plugin-react-compiler": "1.0.0",
-    "eslint": "^9",
+    "eslint": "^8.57.0",
     "eslint-config-next": "14.2.15",
     "shadcn": "^3.8.4",
     "tailwindcss": "^4",
